@@ -9,3 +9,5 @@ Puslapis, skirtas programinę įrangą išmokyti kalbėti lietuvių kalba
 *GitHub* neleidžia nemokamose repozitorijose laikyti exe failų, o būtent tokių nemažai yra tarp sulietuvinimų, todėl jei norite jį pasileisti taip, kad jis veiktų kaip senais laikais, privalote atsisiųsti visus failus iš [Google Drive](https://drive.google.com/folderview?id=0BwjzJfZpVAGOZm5rcWVST2drb1U&usp=sharing) ir sudėti į *Downloads* katalogą.
 
 Jei naudosite šio projekto kodais, turėkite omeny, kad aš jokio palaikymo jiems nesiruošiu teikti, kam naudosite, man nėra taip svarbu, tačiau būkite geri neklonuokite šio tinklalapio 1:1 tik šiek tiek pakeitę dizainą ir nutrynę failuose esančius komentarus (jei kažką kito „gaminate“, galite drąsiai be jokių sąlygu naudotis šiuos turiniu).
+
+Norėdami pamatyti ekrano paveiksliukus, galite žvilgteltėti į kitų branch'ų *README.md* failus.
