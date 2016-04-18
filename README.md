@@ -1,4 +1,4 @@
-Sulietuvinimai tinklalapis
+Sulietuvinimų tinklalapis
 ==========================
 
 Page for things making software to speak in Lithuanian language (Sorry, all other text is in Lithuanian).
