@@ -1,0 +1,4 @@
+if (document.location.hostname == 'sulietuvinimai.mekdrop.name')
+{
+	document.write('<div style="background-color: yellow; padding: 0.5em; position: absolute;    width: 50%;    margin: 0 0;    left: 0;    top: 0;"><a href="#Uþdaryti" onclick="this.parentNode.style.display = \'none\'; return faklse;" style="    float: right;    font-weight: bold;    color: white;    background: orange;    padding: 0 0.25em 0.25em;">x</a>  Ðis tinklalapis buvo sukurtas bei atnaujintas labai seniai, todël nemaþa dalis informacijos ðiai dienai jau pasenusi. Jis vis dar internete labiau dël istoriniø prieþasèiø nei turinio. <br /><br />Jei ádomus tinklalapio kodas galite já pamatyti bei atsiøsti <a href="https://github.com/MekDrop/sulietuvinimai-website" target="_blank">GitHub tinklalapyje</a>. </div>');
+}
