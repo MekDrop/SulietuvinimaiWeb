@@ -18,8 +18,8 @@ function FindWordInDatabase(FindWhat){
     if (FindWhat=="all:") o=15;
     if (o>0) rasta=rasta+1;
 	}
-	document.write('&nbsp; <font color="#003366">Paieğkos Rezultatai</font> ');
-	if (rasta==0) document.write('</b></font></p><p>&nbsp; Jokiø árağø duomenø bazëje nebuvo rasta.<font face="Georgia, Times New Roman, Times, serif"><b>'); else     document.write('</b></font></p><p>&nbsp; Buvo rasta ', rasta,' árağø duomenø bazëje.<br>&nbsp; Jeigu norite kà nors atsiøsti, tiesiog paspauskite ant to sulietuvinimo pavadinimo, kurá jûs norite atsisiøsti.<font face="Georgia, Times New Roman, Times, serif"><b>');
+	document.write('&nbsp; <font color="#003366">PaieÅ¡kos Rezultatai</font> ');
+	if (rasta==0) document.write('</b></font></p><p>&nbsp; JokiÅ³ Ä¯raÅ¡Å³ duomenÅ³ bazÄ—je nebuvo rasta.<font face="Georgia, Times New Roman, Times, serif"><b>'); else     document.write('</b></font></p><p>&nbsp; Buvo rasta ', rasta,' Ä¯raÅ¡Å³ duomenÅ³ bazÄ—je.<br>&nbsp; Jeigu norite kÄ… nors atsiÅ³sti, tiesiog paspauskite ant to sulietuvinimo pavadinimo, kurÄ¯ jÅ«s norite atsisiÅ³sti.<font face="Georgia, Times New Roman, Times, serif"><b>');
   for (i=0; i < MaxValue ; i++){
     str=Koment[i]+Suliet[i];
 	str=str.toLowerCase();
@@ -59,12 +59,12 @@ function FindWordInDatabase(FindWhat){
             document.write('</tr>');
             document.write('<tr> ');
             document.write('<td><font face="Georgia, Times New Roman, Times, serif" size="-1"><b>&nbsp; ');
-            document.write('</b></font><font color="#0099FF" size="-1">Ávertinimas:</font> ');
+            document.write('</b></font><font color="#0099FF" size="-1">Ä®vertinimas:</font> ');
             document.write('<font color="#006699" size="-1">',Taskai[i],'</font></td>');
             document.write('</tr>');
             document.write('<tr> ');
             document.write('<td><font face="Georgia, Times New Roman, Times, serif" size="-1"><b>&nbsp; ');
-            document.write('</b></font><font color="#0099FF" size="-1">Svetainë:</font> ');
+            document.write('</b></font><font color="#0099FF" size="-1">SvetainÄ—:</font> ');
             document.write('<font color="#006699" size="-1">',Page[i],'</font></td>');
             document.write('</tr>');
             document.write('<tr> ');

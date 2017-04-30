@@ -1,1 +1,1 @@
-document.write('Ðiuo metu nevyksta joks balsavimas.');
+document.write('Å iuo metu nevyksta joks balsavimas.');

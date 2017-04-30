@@ -6,7 +6,7 @@ function News(){
        rasta=rasta+1;
 	}
 	document.write('&nbsp; <font color="#003366">Naujienos</font> ');
-	if (rasta==0) document.write('</b></font></p><p>&nbsp; Jokiø naujienø nëra.<font face="Georgia, Times New Roman, Times, serif"><b>'); else     document.write('</b></font></p><p>&nbsp; Ðiuo metu yra ', rasta,' naujienø(-a).<br>&nbsp; Jeigu norite kà nors atsiøsti, tiesiog paspauskite ant to sulietuvinimo pavadinimo, kurá jûs norite atsisiøsti.<font face="Georgia, Times New Roman, Times, serif"><b>');
+	if (rasta==0) document.write('</b></font></p><p>&nbsp; JokiÅ³ naujienÅ³ nÄ—ra.<font face="Georgia, Times New Roman, Times, serif"><b>'); else     document.write('</b></font></p><p>&nbsp; Å iuo metu yra ', rasta,' naujienÅ³(-a).<br>&nbsp; Jeigu norite kÄ… nors atsiÅ³sti, tiesiog paspauskite ant to sulietuvinimo pavadinimo, kurÄ¯ jÅ«s norite atsisiÅ³sti.<font face="Georgia, Times New Roman, Times, serif"><b>');
   for (i=LastPosition; i < MaxValue ; i++){
 			document.write('<p><table width="98%" border="0" cellspacing="0" cellpadding="0" height="3" background="9854.png" align="left">');
 			document.write('<tr> ');
@@ -33,12 +33,12 @@ function News(){
             document.write('</tr>');
             document.write('<tr> ');
             document.write('<td><font face="Georgia, Times New Roman, Times, serif" size="-1"><b>&nbsp; ');
-            document.write('</b></font><font color="#0099FF" size="-1">Ávertinimas:</font> ');
+            document.write('</b></font><font color="#0099FF" size="-1">Ä®vertinimas:</font> ');
             document.write('<font color="#006699" size="-1">',Taskai[i],'</font></td>');
             document.write('</tr>');
             document.write('<tr> ');
             document.write('<td><font face="Georgia, Times New Roman, Times, serif" size="-1"><b>&nbsp; ');
-            document.write('</b></font><font color="#0099FF" size="-1">Svetainë:</font> ');
+            document.write('</b></font><font color="#0099FF" size="-1">SvetainÄ—:</font> ');
             document.write('<font color="#006699" size="-1">',Page[i],'</font></td>');
             document.write('</tr>');
             document.write('<tr> ');
