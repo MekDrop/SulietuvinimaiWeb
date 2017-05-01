@@ -24,8 +24,10 @@ function AddToDatabase(Vieta, Pavadinimas, URL, FailoDydis, Ivertinimas, OfPsl, 
  Koment[Vieta] = Komentaras;
  }
 
+// Prefiksas
+var url_prefix = 'https://www.dropbox.com/sh/oryt9de6ctp440q/AABAtaWCUzViJ1H6DMzBvUena?dl=0&preview=';
+
 //Pridedami elementai i duomenu baze
- var url_prefix = 'https://www.dropbox.com/sh/oryt9de6ctp440q/AABAtaWCUzViJ1H6DMzBvUena?dl=0&preview=';
  AddToDatabase(0,"Grand Prix 3",url_prefix + "gp3liet1.exe","95,2Kb","3","-","-","Sulietuvina Grand Prix 3 Quick Race skyrių.");
  AddToDatabase(1,"Windows LT Games",url_prefix + "ltgames.exe","81,5Kb","5","-","-","Sulietuvina Solitaire ir Mimesweeper žaidimų vartotojo sąsajas.");
  AddToDatabase(2,"Mirc",url_prefix + "mirc.Lit.zip","0,646Kb","2","-","-","Sulietuvina Mirc Join ir Quit komandas.");
