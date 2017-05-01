@@ -42,7 +42,7 @@ function FindWordInDatabase(FindWhat){
             document.write('<br>');
             document.write('<table width="100%" border="0" cellspacing="0" cellpadding="0">');
             document.write('<tr> ');
-            document.write('<td><font face="Georgia, Times New Roman, Times, serif"><b> &nbsp; <a href="',Failai[i],'">',Suliet[i],'</a></b></font></td>');
+            document.write('<td><font face="Georgia, Times New Roman, Times, serif"><b> &nbsp; <a href="',Failai[i],'" target="_blank">',Suliet[i],'</a></b></font></td>');
             document.write('</tr>');
             document.write('<tr>');
             document.write('<td>&nbsp;</td>');
