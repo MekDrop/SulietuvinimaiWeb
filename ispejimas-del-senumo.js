@@ -22,7 +22,7 @@ function getCookie(cname) {
 }
 
 function closeNotification(obj) {
-	setCookie('old-notification', true, 365);
+	setCookie('old-notification', true, 1);
 	obj.style.display = 'none'; 
 	return false;
 }
