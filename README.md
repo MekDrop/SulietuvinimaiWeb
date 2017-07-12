@@ -3,7 +3,7 @@
 Sulietuvinimų tinklalapis
 ==========================
 
-**Page for things making software to speak in Lithuanian language (Sorry, all other text is in Lithuanian).**
+**A website for things making software to speak in Lithuanian language (Sorry, all other text is in Lithuanian).**
 
 Puslapis, skirtas programinę įrangą išmokyti kalbėti lietuvių kalba
 
